@@ -1,4 +1,0 @@
-/home/recall/Desktop/Github_pro/build/CMakeFiles/server.dir
-/home/recall/Desktop/Github_pro/build/CMakeFiles/client.dir
-/home/recall/Desktop/Github_pro/build/CMakeFiles/edit_cache.dir
-/home/recall/Desktop/Github_pro/build/CMakeFiles/rebuild_cache.dir
